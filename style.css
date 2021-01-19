@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+    border: 20px lightblue;
+}
+
+header img {
+    border: 5px solid lightblue;
+}
+
+h1 {
+    text-align: center;
+    color:purple;
+}
+
+footer{
+    background-color: pink;
+    border: 3px solid pink;
+}
+
+footer p {
+    background-color: white;
+    border: 3px solid white;
+}
+
+nav {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid lightgray;
+}
+
+nav a {
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: lightgrey;
+}
